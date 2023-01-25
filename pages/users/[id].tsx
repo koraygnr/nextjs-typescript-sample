@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRouter } from 'next/router'
-import useFetch from '@/customHooks/UseFetch'
+import useFetch from '@/customHooks/useFetch'
 import { postType } from '@/types/types'
 import Post from '@/components/Post'
 import Card from '@/components/Card'
